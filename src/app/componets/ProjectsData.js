@@ -40,6 +40,14 @@ const ProjectsData = {
       description:
         "This is my YouTube channel where I upload all my projects on a weekly basis.",
     },
+    {
+      projectName: "Neelam Portfoloi",
+      projectLinks: "https://neelam-portfolio.vercel.app/admin/neelam/dashboard",
+      projectimg: "youtube.png",
+      duration: 5000,
+      description:
+        "This Portfolio I am create useing next js and mongodb like full stack developer",
+    },
   ],
 
   cirtficate: [
