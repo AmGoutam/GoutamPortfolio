@@ -46,7 +46,7 @@ const ProjectsData = {
       projectimg: "youtube.png",
       duration: 5000,
       description:
-        "This Portfolio I am create useing next js and mongodb like full stack developer",
+        "This Portfolio I am create useing next js and mongodb like full stack developer.",
     },
   ],
 
