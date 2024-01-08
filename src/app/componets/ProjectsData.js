@@ -43,7 +43,7 @@ const ProjectsData = {
     {
       projectName: "Neelam Portfoloi",
       projectLinks: "https://neelam-portfolio.vercel.app/admin/neelam/dashboard",
-      projectimg: "youtube.png",
+      projectimg: "neelam.png",
       duration: 5000,
       description:
         "This Portfolio I am create useing next js and mongodb like full stack developer.",
